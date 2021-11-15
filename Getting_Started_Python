@@ -1,0 +1,6 @@
+print("Raghavi")
+print("Raghavi's lapptop")
+print('Raghavi"Laptop"')
+print('Raghavi\'s "Laptop"')
+10 * 'Raghavi'
+print(r'c:\docs\Raghavi')
