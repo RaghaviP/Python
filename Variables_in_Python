@@ -1,0 +1,38 @@
+2 + 3
+5
+x = 2
+x + 3
+5
+y = 3
+x + y
+5
+x = 9
+x + y
+12
+x
+9
+x + 10
+19
+_ + y
+22
+name = 'youtube'
+name
+'youtubei'
+name + 'Rocks'
+'youtube Rocks'
+name [0]
+'y'
+name [6]
+'e'
+name [-1[
+'e'
+name [-2]
+'b'
+name [-7]
+'y'
+name[0:2]
+'yo'
+name [1:4]
+'out'
+'my' + name [3:1]
+'my tube'
