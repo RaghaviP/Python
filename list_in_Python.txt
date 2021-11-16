@@ -1,0 +1,44 @@
+Below is the way to specify list
+nums = [25,12,36,95,14]
+nums [0]
+25
+nums [95]
+3
+nums [2:]
+[36,95,14]
+nums [-1]
+14
+nums [-4]
+12
+names = ['senio','bunny']
+enter names we get the ouptput as below
+names
+['senio','bunny']
+now lets try with string,num,float list
+values = [9.5,'raghavi',25]
+num.insert (2,77)
+nums
+[25,12,77,36,95,14]
+nums.remove(14)
+nums
+[25,12,77,36,95]
+nums.pop(1)
+12
+del nums [2:]
+nums
+[25,77]
+nums.extend([29,12,14,36])
+nums
+[25,77,29,12,14,36]
+min(nums)
+12
+max(num)
+77
+sum(nums)
+193
+nums.sort()
+nums
+[12,14,25,36,77]
+
+
+
