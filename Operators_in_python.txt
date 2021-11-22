@@ -1,0 +1,90 @@
+Arithmetic Operators
+a = 2
+b = 3
+a + b
+2 + 3
+5
+a - b
+2 - 3
+-1
+a * b
+2 * 3
+6
+a % b
+2 % 3
+0.6666666666
+Assignment Operators
+e = e + 2
+e
+4
+e += 2
+e
+6
+e *= 2
+e
+8
+e -= 2
+e
+2
+e *= 5
+e
+20
+a,b = 5,6
+a
+5
+b
+6
+f,g = 7,9
+f
+7
+g
+9
+Unary Operator
+n = 6
+n
+6
+-n
+-6
+n = -6
+n
+-6
+shri = 8
+shri
+8
+-shri
+-8
+shri =-8
+shri
+-8
+Relational Operators
+f<g
+true
+f>g
+false
+f == g
+false
+f == 9
+f ==g
+true
+f! = b
+false
+Logical Operators
+a = 5
+b = 4
+a < 8 and b < 5
+true
+a < 8 and b < 2
+false
+a < 8 or b < 2
+true
+x = true
+x
+true
+not x
+false
+x = notx
+x
+false
+
+
+
