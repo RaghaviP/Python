@@ -1,0 +1,16 @@
+Binary format
+bin(25)
+'0b11001'
+0b1001
+5
+Octal format
+oct(25)
+'0o31'
+Hexa format
+hex(25)
+'0x19'
+hex(10)
+'0xa'
+0xf15
+
+
