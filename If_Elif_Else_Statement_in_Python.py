@@ -1,33 +1,39 @@
-x = 7
-r x % 2
+'''
+if True:
+    print("im right")
+    print("bye")
+    print("take care")
+'''
+'''
+a = 8 #Variable "a" is defined with value 8
+r = a % 2 #Variable "r" is defined with values i.e. (8 Modulus 2) Modulus means Reminder
 
-if r ==0:
-      print("even")
+#if statement starts here
+if r==0: #if 8 is equal to 0
+   print("Even") #print output "Even"
+   #Nested if
+   if a > 5: #if variable "a" is greater than 5
+      print("Great") #print output "Great"
+   else:
+    print("not so great")
 
-      if(r==1):
-          print("odd")
 else:
-           if r=x>5
-print("bye")
+    print("odd")
 
-x = 2
+    print("bye")
+'''
 
-elif x ==1:
-    print("one)"
+#x = input("Input any Number : ")
+x = 54454
+r = x % 2
 
-elif (x ==2):
-      print("two")
+if r==1:
+   print("odd")
 
-what if the value 5
+#   if x > 4:
+#       print("Great")
+#   else:
+#       print("no so greater")
 
-
-
-
-
-
-
-
-
-
-
-
+else:
+    print ("even")
