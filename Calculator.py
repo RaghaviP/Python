@@ -1,10 +1,10 @@
 
-first =  input("enter first number : ")
+first =  int(input("enter first number : "))
 operator = input("enter operator (+,-,*,/,%) : ")
-second = input("enter second number : ")
+second = int(input("enter second number : "))
 
-first = int(first)
-second = int(second)
+#first = int(first)
+#second = int(second)
 
 if operator == "+":
     print(first + second)
@@ -18,4 +18,6 @@ elif operator == "%":
     print(first % second)
 else:
     print("Invalid operation")
+
+
 
