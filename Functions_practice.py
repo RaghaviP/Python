@@ -150,7 +150,6 @@ def mylife(*argv):
         print(arg)
 
 mylife("I ", "want", "to","be", "Data Analyst", "and", "Data Scientist")
-'''
 
 def mydream(*argv):
 
@@ -158,4 +157,9 @@ def mydream(*argv):
         print(arg)
 
 mydream("I", "want", "to", "be","a", "Python Developer")
+'''
 
+def new_test_function():
+  print("Hello from a function")
+
+new_test_function()
