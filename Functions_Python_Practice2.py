@@ -3,3 +3,4 @@ def greeting():
     print("How are you?")
 
 greeting()
+#code ended
