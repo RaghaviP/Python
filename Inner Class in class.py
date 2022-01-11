@@ -19,6 +19,5 @@ class Student:
             print(self.subject, self.marks)
 
 s1 = Student('Ria', 58)
-s2 = Student('Tina', 52)
 
 s1.show()
